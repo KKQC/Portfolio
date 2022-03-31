@@ -1,4 +1,4 @@
-var words = ['Mateusz', 'Korniak'],
+let words = ['Mateusz', 'Korniak'],
     part,
     i = 0,
     offset = 0,
@@ -7,7 +7,7 @@ var words = ['Mateusz', 'Korniak'],
     skip_count = 0,
     skip_delay = 15,
     speed = 70;
-var wordflick = function() {
+let wordflick = function() {
     setInterval(function() {
         if (forwards) {
             if (offset >= words[i].length) {
