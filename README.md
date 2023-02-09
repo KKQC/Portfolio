@@ -1,4 +1,4 @@
-"Korniak ty kurwo jebana przezstań mi mastera prześladować PISowcu ty"
+"Remix of Korniak's portfolio. Repo just for fun. Soonish' I will be making my own"
 
 
-~KKQC 24.01.2023
+~KKQC 09.02.2023
