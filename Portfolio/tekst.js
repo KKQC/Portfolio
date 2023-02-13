@@ -1,4 +1,4 @@
-let words = ['Mateusz', 'Korniak'],
+let words = ['Aleksander', 'von Mehlem'],
     part,
     i = 0,
     offset = 0,
