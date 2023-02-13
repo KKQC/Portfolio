@@ -1,4 +1,4 @@
-"Remix of Korniak's portfolio. Repo just for fun. Soonish' I will be making my own"
+"Remix of Korniak's portfolio. Soonish' I will be making my own from scratch"
 
 
-~KKQC 09.02.2023
+~KKQC 13.02.2023
